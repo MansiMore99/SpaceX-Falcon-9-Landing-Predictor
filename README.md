@@ -61,49 +61,12 @@ https://www.credly.com/badges/3907882b-dfd7-45c3-b024-438ac2c7854b/public_url
 https://www.credly.com/badges/e6bfe69a-f040-481b-81da-bc80379e9e29/public_url
 
 
-{
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
-    "Copyright © 2021 IBM Corporation. All rights reserved.\n"
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
-    "Labs completed by __<a href=\"https://www.linkedin.com/in/mansi-more-0943/\">Mansi More</a>__"
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
-    "<a href=\"https://github.com/MansiMore99/Data_Science_Capstone\">GitHub Files</a>"
-   ]
-  }
- ],
- "metadata": {
-  "kernelspec": {
-   "display_name": "Python 3",
-   "language": "python",
-   "name": "python3"
-  },
-  "language_info": {
-   "codemirror_mode": {
-    "name": "ipython",
-    "version": 3
-   },
-   "file_extension": ".py",
-   "mimetype": "text/x-python",
-   "name": "python",
-   "nbconvert_exporter": "python",
-   "pygments_lexer": "ipython3",
-   "version": "3.8.8"
-  }
- },
- "nbformat": 4,
- "nbformat_minor": 4
-}
 
+#### © Copyright IBM Corporation
+
+#### © Copyright 2021 - [Mansi More](https://github.com/MansiMore99/Data_Science_Capston)
+
+<p align="center"><a href="https://www.credly.com/badges/52ccac89-9e3d-42a2-a0f8-ec392892f4e5/public_url"><img src="https://github.com/debdattasarkar/SpaceX-Data-Science-Project/blob/master/certificatebadge/applied-data-science-capstone.png" alt="IBM Applied Data Science Capstone Project" width="190px"/></a> <a href="https://www.credly.com/badges/4b783214-c5b2-4b5a-ad19-1189d1c20288/public_url"><img src="https://github.com/debdattasarkar/SpaceX-Data-Science-Project/blob/master/certificatebadge/applied-data-science-specialization.1.png" alt="Applied Data Science Specialization" width="190px" padding="20px" /></a> <a href="https://www.credly.com/badges/4b783214-c5b2-4b5a-ad19-1189d1c20288/public_url"><img src="https://github.com/debdattasarkar/SpaceX-Data-Science-Project/blob/master/certificatebadge/data-science-professional-certificate.png" alt="Applied Data Science Specialization" width="185px"/> </a></p>
+
+<a href="https://www.linkedin.com/in/mansi-more-0943/"> ![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 
