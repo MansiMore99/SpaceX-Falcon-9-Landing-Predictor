@@ -22,18 +22,18 @@ This capstone project course will give you a taste of what data scientists go th
 
 #### 1️⃣ Week 1 : Data Collection and Wrangling
 
-Collecting the Data via API
-Collecting the Data via Web Scraping
+Collecting the Data via API, 
+Collecting the Data via Web Scraping, 
 Data Wrangling
 
 #### 2️⃣ Week 2 : Exploratory Data Analysis (EDA)
 
-Exploratory Analysis Using SQL
+Exploratory Analysis Using SQL, 
 Exploratory Analysis Using Pandas and Matplotlib
 
 #### 3️⃣ Week 3 : Interactive Visual Analytics and Dashboard
 
-Interactive Visual Analytics with Folium
+Interactive Visual Analytics with Folium, 
 Plotly
 
 #### 4️⃣ Week 4 : Predictive Analysis (Classification)
@@ -48,9 +48,9 @@ Present Your Data-Driven Insights with Presentation
 #### 📚 Extra Study Materials
 Dont jump into labs without study. Take time to study previous labs step by step and also practice on your own laptop locally by installing Anaconda. This will also limit the usage of IBM Cloud Trial version.
 
-Plotly
-Folium
-Folium Examples
+Plotly, 
+Folium, 
+Folium Examples, 
 Confusion Matrix
 
 
