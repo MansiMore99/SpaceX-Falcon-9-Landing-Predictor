@@ -53,15 +53,6 @@ Folium,
 Folium Examples, 
 Confusion Matrix
 
-
-##### Certificate Badges
-
-https://www.credly.com/badges/3907882b-dfd7-45c3-b024-438ac2c7854b/public_url
-
-https://www.credly.com/badges/e6bfe69a-f040-481b-81da-bc80379e9e29/public_url
-
-
-
 #### © Copyright IBM Corporation
 
 #### © Copyright 2022 - [Mansi More](https://github.com/MansiMore99)
