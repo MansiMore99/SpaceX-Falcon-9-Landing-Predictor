@@ -61,3 +61,49 @@ https://www.credly.com/badges/3907882b-dfd7-45c3-b024-438ac2c7854b/public_url
 https://www.credly.com/badges/e6bfe69a-f040-481b-81da-bc80379e9e29/public_url
 
 
+{
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Copyright © 2021 IBM Corporation. All rights reserved.\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Labs completed by __<a href=\"https://www.linkedin.com/in/mansi-more-0943/\">Mansi More</a>__"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "<a href=\"https://github.com/MansiMore99/Data_Science_Capstone\">GitHub Files</a>"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.8.8"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 4
+}
+
+
