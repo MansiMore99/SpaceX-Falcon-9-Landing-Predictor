@@ -64,7 +64,7 @@ https://www.credly.com/badges/e6bfe69a-f040-481b-81da-bc80379e9e29/public_url
 
 #### © Copyright IBM Corporation
 
-#### © Copyright 2021 - [Mansi More](https://github.com/MansiMore99/Data_Science_Capston)
+#### © Copyright 2021 - [Mansi More](https://github.com/mansimore)
 
 <p align="center"><a href="https://www.credly.com/badges/52ccac89-9e3d-42a2-a0f8-ec392892f4e5/public_url"><img src="https://github.com/debdattasarkar/SpaceX-Data-Science-Project/blob/master/certificatebadge/applied-data-science-capstone.png" alt="IBM Applied Data Science Capstone Project" width="190px"/></a> <a href="https://www.credly.com/badges/4b783214-c5b2-4b5a-ad19-1189d1c20288/public_url"><img src="https://github.com/debdattasarkar/SpaceX-Data-Science-Project/blob/master/certificatebadge/applied-data-science-specialization.1.png" alt="Applied Data Science Specialization" width="190px" padding="20px" /></a> <a href="https://www.credly.com/badges/4b783214-c5b2-4b5a-ad19-1189d1c20288/public_url"><img src="https://github.com/debdattasarkar/SpaceX-Data-Science-Project/blob/master/certificatebadge/data-science-professional-certificate.png" alt="Applied Data Science Specialization" width="185px"/> </a></p>
 
