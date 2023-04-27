@@ -51,9 +51,9 @@ Present Your Data-Driven Insights with Presentation
 ##### 📚 Extra Study Materials
 Dont jump into labs without study. Take time to study previous labs step by step and also practice on your own laptop locally by installing Anaconda. This will also limit the usage of IBM Cloud Trial version.
 
-Plotly: https://github.com/plotly 
-Folium: https://github.com/python-visualization/folium
-Confusion Matrix: https://towardsdatascience.com/understanding-confusion-matrix-a9ad42dcfd62
+ ###### Plotly: https://github.com/plotly                                                                                                                                
+###### Folium: https://github.com/python-visualization/folium                                                                                                                       
+###### Confusion Matrix: https://towardsdatascience.com/understanding-confusion-matrix-a9ad42dcfd62
 
 #### © Copyright IBM Corporation
 
