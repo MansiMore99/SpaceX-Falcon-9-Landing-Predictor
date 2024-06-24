@@ -1,5 +1,5 @@
 #### Data_Science_Capstone
-## SpaceX Data Science Project
+## SpaceX Falcon 9 Landing Predictor
 
 💡 About this Course ->
 https://www.coursera.org/learn/applied-data-science-capstone?specialization=ibm-data-science
