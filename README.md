@@ -9,7 +9,7 @@ https://www.coursera.org/professional-certificates/ibm-data-science
 
 ##### 🎉 Labs completed by Mansi More
 
-This capstone project course will give you a taste of what data scientists go through in real life when working with real datasets. You will assume the role of a Data Scientist working for a startup intending to compete with SpaceX, and in the process follow the Data Science methodology involving data collection, data wrangling, exploratory data analysis, data visualization, model development, model evaluation, and reporting your results to stakeholders.
+I managed the SpaceX Falcon 9 Landing Prediction Project, utilizing web scraping with BeautifulSoup to gather and preprocess launch data. I conducted in-depth exploratory data analysis (EDA) and feature engineering using Python and Matplotlib. I implemented SVM, Classification Trees, and Logistic Regression models, optimizing hyperparameters to achieve a 6% increase in accuracy for Decision Tree models. I have demonstrated expertise in data science methodologies and advanced machine learning techniques for predicting SpaceX Falcon 9 first-stage landing outcomes.
 
 
 #### 📝 Table of Contents
